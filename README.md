@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # Mastering Terraform
 
 <a href="https://www.packtpub.com/en-us/product/mastering-terraform-9781835086018?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="https://content.packt.com/_/image/xxlarge/B21183/cover_image_large.jpg" alt="" height="256px" align="right"></a>
